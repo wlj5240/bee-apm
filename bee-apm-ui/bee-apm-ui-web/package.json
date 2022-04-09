@@ -15,7 +15,7 @@
         "element-ui": "2.4.11",
         "font-awesome": "^4.7.0",
         "json-fmt": "^1.1.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "v-charts": "^1.19.0",
         "vis-data": "^6.2.1",
         "vis-network": "^6.5.2",
